@@ -9,7 +9,7 @@
 
 [CodeIgniter](https://codeigniter.com/) is a powerful PHP framework with a very small footprint, built for developers who need a simple and elegant toolkit to create full-featured web applications.
 
-Created a CRUD Restful-API using CodeIgniter and phpmyAdmin(sql). Test the API through Postman. 
+Created a CRUD Rest-API using CodeIgniter and phpmyAdmin(sql). Test the API through Postman. 
 
 <img src="https://www.nicesnippets.com/image/c4rae.jpeg" alt="CodeIgniter" width="65%" height="50%"/>
 
